@@ -1,0 +1,196 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.2",
+    "creationData": {
+      "type": "Import",
+      "projectTypeName": "com.intel.xdk.projecttype.jsapp",
+      "src": "",
+      "projectGuid": "a753cf15-d3d8-4bb7-a822-203f6dd288d6",
+      "lastModifiedDate": 1424962986973,
+      "creationDate": 1422201171708
+    },
+    "sourceDirectory": "",
+    "cordovaPluginsDirectory": "plugins",
+    "startFile": "index.html",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [],
+    "cordovaPlugins": [
+      {
+        "id": "org.apache.cordova.device",
+        "version": "0.2.9",
+        "selectedState": "Auto",
+        "data": {},
+        "paramvals": {}
+      },
+      {
+        "id": "org.apache.cordova.splashscreen",
+        "version": "0.3.0",
+        "selectedState": "Auto",
+        "data": {},
+        "paramvals": {}
+      }
+    ],
+    "serviceMethods": [],
+    "buildConfigurations": {
+      "Android": {
+        "platform_": "android",
+        "runtime_": "Cordova 3.x",
+        "name_": "Android",
+        "preferences_": {
+          "android-minSdkVersion": "10",
+          "android-targetSdkVersion": "19",
+          "android-installLocation": "auto"
+        },
+        "isActive_": true,
+        "appName_": "CastleCrashHill",
+        "appID_": "com.Windows.CastleCrashHIll",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [
+          {
+            "relPath": "CastleCrashHill36x.png",
+            "density": "ldpi",
+            "height": 36,
+            "width": 36
+          },
+          {
+            "relPath": "CastleCrashHill48x.png",
+            "density": "mdpi",
+            "height": 48,
+            "width": 48
+          },
+          {
+            "relPath": "CastleCrashHill72x.png",
+            "density": "hdpi",
+            "height": 72,
+            "width": 72
+          },
+          {
+            "relPath": "CastleCrashHill96x.png",
+            "density": "xhdpi",
+            "height": 96,
+            "width": 96
+          }
+        ],
+        "splashes_": [
+          {
+            "relPath": "CastleCrashHillSplash426x.png",
+            "density": "ldpi",
+            "height": 426,
+            "width": 320,
+            "orientation": "portrait"
+          },
+          {
+            "relPath": "CastleCrashHillSplash470x.png",
+            "density": "mdpi",
+            "height": 470,
+            "width": 320,
+            "orientation": "portrait"
+          },
+          {
+            "relPath": "CastleCrashHillSplash640x.png",
+            "density": "hdpi",
+            "height": 640,
+            "width": 480,
+            "orientation": "portrait"
+          },
+          {
+            "relPath": "CastleCrashHillSplash960x.png",
+            "density": "xhdpi",
+            "height": 960,
+            "width": 720,
+            "orientation": "portrait"
+          }
+        ],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "3.5",
+        "appVersion_": "0.0.1",
+        "appVersionCode_": "1",
+        "crosswalkVersion_": "stable",
+        "appDescription_": "Casual",
+        "appAuthor_": "Social Latern Media"
+      },
+      "Android-Crosswalk": {
+        "platform_": "android",
+        "runtime_": "Crosswalk with Cordova 3.x",
+        "name_": "Android-Crosswalk",
+        "preferences_": {
+          "android-minSdkVersion": "14",
+          "android-targetSdkVersion": "19",
+          "android-installLocation": "auto"
+        },
+        "isActive_": true,
+        "appName_": "CastleCrashHill",
+        "appID_": "not.yet.specified",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [],
+        "splashes_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "3.5",
+        "appVersion_": "0.0.1",
+        "appVersionCode_": "1",
+        "crosswalkVersion_": "10"
+      },
+      "iOS": {
+        "platform_": "ios",
+        "runtime_": "Cordova 3.x",
+        "name_": "iOS",
+        "preferences_": {
+          "ios-target": "5",
+          "ios-configuration": "adhoc"
+        },
+        "isActive_": true,
+        "appName_": "CastleCrashHill",
+        "appID_": "not.yet.specified",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [],
+        "splashes_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "3.5",
+        "appVersion_": "0.0.1"
+      },
+      "Windows8": {
+        "platform_": "windows8",
+        "runtime_": "Cordova 3.x",
+        "name_": "Windows8",
+        "preferences_": {},
+        "isActive_": true,
+        "appName_": "CastleCrashHill",
+        "appID_": "not.yet.specified",
+        "appAccess_": [
+          {
+            "origin": "*"
+          }
+        ],
+        "icons_": [],
+        "splashes_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "3.5",
+        "appVersion_": "0.0.0.1"
+      }
+    },
+    "gameAssetDirectory": "asset",
+    "gameMetadata": {},
+    "projectTags": []
+  }
+}
